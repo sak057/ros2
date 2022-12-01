@@ -1,0 +1,25 @@
+[0.313s] Invoking command in '/home/sakuto/ros2_ws/src/mypkg': PYTHONPATH=/home/sakuto/ros2_ws/build/mypkg/prefix_override:/home/sakuto/ros2_ws/install/mypkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/sakuto/ros2_ws/build/mypkg/build install --record /home/sakuto/ros2_ws/build/mypkg/install.log --single-version-externally-managed
+[0.436s] running egg_info
+[0.437s] writing ../../build/mypkg/mypkg.egg-info/PKG-INFO
+[0.437s] writing dependency_links to ../../build/mypkg/mypkg.egg-info/dependency_links.txt
+[0.437s] writing entry points to ../../build/mypkg/mypkg.egg-info/entry_points.txt
+[0.437s] writing requirements to ../../build/mypkg/mypkg.egg-info/requires.txt
+[0.437s] writing top-level names to ../../build/mypkg/mypkg.egg-info/top_level.txt
+[0.438s] reading manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.439s] writing manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.439s] running build
+[0.439s] running build_py
+[0.439s] running install
+[0.439s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.439s]   warnings.warn(
+[0.439s] running install_lib
+[0.440s] running install_data
+[0.441s] copying launch/talk_listen.launch.py -> /home/sakuto/ros2_ws/install/mypkg/share/mypkg
+[0.441s] running install_egg_info
+[0.442s] removing '/home/sakuto/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.442s] Copying ../../build/mypkg/mypkg.egg-info to /home/sakuto/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg-0.0.0-py3.10.egg-info
+[0.442s] running install_scripts
+[0.455s] Installing listener script to /home/sakuto/ros2_ws/install/mypkg/lib/mypkg
+[0.455s] Installing talker script to /home/sakuto/ros2_ws/install/mypkg/lib/mypkg
+[0.455s] writing list of installed files to '/home/sakuto/ros2_ws/build/mypkg/install.log'
+[0.470s] Invoked command in '/home/sakuto/ros2_ws/src/mypkg' returned '0': PYTHONPATH=/home/sakuto/ros2_ws/build/mypkg/prefix_override:/home/sakuto/ros2_ws/install/mypkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/sakuto/ros2_ws/build/mypkg/build install --record /home/sakuto/ros2_ws/build/mypkg/install.log --single-version-externally-managed
